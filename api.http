@@ -1,0 +1,7 @@
+POST http://localhost:3000/create
+###
+
+GET http://localhost:3000/12
+###
+
+GET http://skibidi.localhost:3000
